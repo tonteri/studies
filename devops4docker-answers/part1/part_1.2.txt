@@ -1,0 +1,4 @@
+pulivari 197 % docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+pulivari 198 % docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
